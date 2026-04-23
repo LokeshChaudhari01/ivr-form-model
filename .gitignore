@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables (CRITICAL)
+.env
+.env.local
+.env.*.local
+
+# Editor files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Python distribution
+*.egg-info/
+.Python
